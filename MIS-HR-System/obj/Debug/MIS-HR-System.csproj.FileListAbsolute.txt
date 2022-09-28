@@ -1,0 +1,10 @@
+C:\Users\USJR CPE\source\repos\MIS-HR-System\MIS-HR-System\bin\Debug\MIS-HR-System.exe.config
+C:\Users\USJR CPE\source\repos\MIS-HR-System\MIS-HR-System\bin\Debug\MIS-HR-System.exe
+C:\Users\USJR CPE\source\repos\MIS-HR-System\MIS-HR-System\bin\Debug\MIS-HR-System.pdb
+C:\Users\USJR CPE\source\repos\MIS-HR-System\MIS-HR-System\obj\Debug\MIS-HR-System.csprojAssemblyReference.cache
+C:\Users\USJR CPE\source\repos\MIS-HR-System\MIS-HR-System\obj\Debug\MIS_HR_System.Form1.resources
+C:\Users\USJR CPE\source\repos\MIS-HR-System\MIS-HR-System\obj\Debug\MIS_HR_System.Properties.Resources.resources
+C:\Users\USJR CPE\source\repos\MIS-HR-System\MIS-HR-System\obj\Debug\MIS-HR-System.csproj.GenerateResource.cache
+C:\Users\USJR CPE\source\repos\MIS-HR-System\MIS-HR-System\obj\Debug\MIS-HR-System.csproj.CoreCompileInputs.cache
+C:\Users\USJR CPE\source\repos\MIS-HR-System\MIS-HR-System\obj\Debug\MIS-HR-System.exe
+C:\Users\USJR CPE\source\repos\MIS-HR-System\MIS-HR-System\obj\Debug\MIS-HR-System.pdb

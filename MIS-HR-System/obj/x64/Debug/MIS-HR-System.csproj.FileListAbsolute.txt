@@ -1,0 +1,26 @@
+D:\backups files from c\repos\MIS-HR-System\MIS-HR-System\bin\x64\Debug\MIS-HR-System.exe.config
+D:\backups files from c\repos\MIS-HR-System\MIS-HR-System\bin\x64\Debug\MIS-HR-System.exe
+D:\backups files from c\repos\MIS-HR-System\MIS-HR-System\bin\x64\Debug\MIS-HR-System.pdb
+D:\backups files from c\repos\MIS-HR-System\MIS-HR-System\obj\x64\Debug\MIS-HR-System.csprojAssemblyReference.cache
+D:\backups files from c\repos\MIS-HR-System\MIS-HR-System\obj\x64\Debug\MIS_HR_System.Properties.Resources.resources
+D:\backups files from c\repos\MIS-HR-System\MIS-HR-System\obj\x64\Debug\MIS-HR-System.csproj.GenerateResource.cache
+D:\backups files from c\repos\MIS-HR-System\MIS-HR-System\obj\x64\Debug\MIS-HR-System.exe
+D:\backups files from c\repos\MIS-HR-System\MIS-HR-System\obj\x64\Debug\MIS-HR-System.pdb
+D:\backups files from c\repos\MIS-HR-System\MIS-HR-System\obj\x64\Debug\MIS_HR_System.Form1.resources
+D:\backups files from c\repos\MIS-HR-System\MIS-HR-System\obj\x64\Debug\MIS_HR_System.View.LeaveFile.resources
+D:\backups files from c\repos\MIS-HR-System\MIS-HR-System\obj\x64\Debug\MIS_HR_System.View.Login.resources
+D:\backups files from c\repos\MIS-HR-System\MIS-HR-System\obj\x64\Debug\MIS_HR_System.MakeUpClassFile.resources
+D:\backups files from c\repos\MIS-HR-System\MIS-HR-System\obj\x64\Debug\MIS_HR_System.Registration.resources
+D:\01 STUDY AREA\S.Y. 2019 - 2020\2ND SEMESTER\System Analysis and Design\MIS-HR-System\MIS-HR-System\bin\x64\Debug\MIS-HR-System.exe.config
+D:\01 STUDY AREA\S.Y. 2019 - 2020\2ND SEMESTER\System Analysis and Design\MIS-HR-System\MIS-HR-System\bin\x64\Debug\MIS-HR-System.pdb
+D:\01 STUDY AREA\S.Y. 2019 - 2020\2ND SEMESTER\System Analysis and Design\MIS-HR-System\MIS-HR-System\obj\x64\Debug\MIS-HR-System.csprojAssemblyReference.cache
+D:\01 STUDY AREA\S.Y. 2019 - 2020\2ND SEMESTER\System Analysis and Design\MIS-HR-System\MIS-HR-System\obj\x64\Debug\MIS_HR_System.Form1.resources
+D:\01 STUDY AREA\S.Y. 2019 - 2020\2ND SEMESTER\System Analysis and Design\MIS-HR-System\MIS-HR-System\obj\x64\Debug\MIS_HR_System.View.LeaveFile.resources
+D:\01 STUDY AREA\S.Y. 2019 - 2020\2ND SEMESTER\System Analysis and Design\MIS-HR-System\MIS-HR-System\obj\x64\Debug\MIS_HR_System.View.Login.resources
+D:\01 STUDY AREA\S.Y. 2019 - 2020\2ND SEMESTER\System Analysis and Design\MIS-HR-System\MIS-HR-System\obj\x64\Debug\MIS_HR_System.MakeUpClassFile.resources
+D:\01 STUDY AREA\S.Y. 2019 - 2020\2ND SEMESTER\System Analysis and Design\MIS-HR-System\MIS-HR-System\obj\x64\Debug\MIS_HR_System.Properties.Resources.resources
+D:\01 STUDY AREA\S.Y. 2019 - 2020\2ND SEMESTER\System Analysis and Design\MIS-HR-System\MIS-HR-System\obj\x64\Debug\MIS_HR_System.Registration.resources
+D:\01 STUDY AREA\S.Y. 2019 - 2020\2ND SEMESTER\System Analysis and Design\MIS-HR-System\MIS-HR-System\obj\x64\Debug\MIS-HR-System.csproj.GenerateResource.cache
+D:\01 STUDY AREA\S.Y. 2019 - 2020\2ND SEMESTER\System Analysis and Design\MIS-HR-System\MIS-HR-System\obj\x64\Debug\MIS-HR-System.csproj.CopyComplete
+D:\01 STUDY AREA\S.Y. 2019 - 2020\2ND SEMESTER\System Analysis and Design\MIS-HR-System\MIS-HR-System\obj\x64\Debug\MIS-HR-System.exe
+D:\01 STUDY AREA\S.Y. 2019 - 2020\2ND SEMESTER\System Analysis and Design\MIS-HR-System\MIS-HR-System\obj\x64\Debug\MIS-HR-System.pdb
